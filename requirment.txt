@@ -1,0 +1,10 @@
+fastapi
+uvicorn 
+motor 
+passlib[bcrypt]
+python-jose
+python-dotenv
+auth
+streamlit
+google-genai>=0.5.0
+google-generativeai
